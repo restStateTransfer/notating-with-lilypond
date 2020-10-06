@@ -8,7 +8,7 @@
   c8\mf c8 g'8 g8
   a8 a8 <g d>4
   f8 f e e
-  d d <c g>
+  d d <c g>4
 }
 
 \addlyrics {
